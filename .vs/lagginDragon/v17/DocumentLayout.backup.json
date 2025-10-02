@@ -3,12 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Callu\\source\\repos\\lagginDragon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF5E0EF6-213E-95E3-8D55-EBF151E1766F}|..\\CrimeModule\\CrimeModule.csproj|c:\\users\\callu\\source\\repos\\crimemodule\\crimemodule.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF5E0EF6-213E-95E3-8D55-EBF151E1766F}|..\\CrimeModule\\CrimeModule.csproj|c:\\users\\callu\\source\\repos\\crimemodule\\crimemodule.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EF5E0EF6-213E-95E3-8D55-EBF151E1766F}|..\\CrimeModule\\CrimeModule.csproj|c:\\users\\callu\\source\\repos\\laggindragon\\modules\\crimemodule\\types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF5E0EF6-213E-95E3-8D55-EBF151E1766F}|..\\CrimeModule\\CrimeModule.csproj|solutionrelative:modules\\crimemodule\\types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -49,31 +43,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CrimeModule",
-              "DocumentMoniker": "C:\\Users\\Callu\\source\\repos\\CrimeModule\\CrimeModule.csproj",
-              "RelativeDocumentMoniker": "..\\CrimeModule\\CrimeModule.csproj",
-              "ToolTip": "C:\\Users\\Callu\\source\\repos\\CrimeModule\\CrimeModule.csproj",
-              "RelativeToolTip": "..\\CrimeModule\\CrimeModule.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-02T19:12:41.437Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CrimeModule",
-              "DocumentMoniker": "C:\\Users\\Callu\\source\\repos\\CrimeModule\\CrimeModule.csproj",
-              "RelativeDocumentMoniker": "..\\CrimeModule\\CrimeModule.csproj",
-              "ToolTip": "C:\\Users\\Callu\\source\\repos\\CrimeModule\\CrimeModule.csproj",
-              "RelativeToolTip": "..\\CrimeModule\\CrimeModule.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-02T19:11:09.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Types.cs",
               "DocumentMoniker": "C:\\Users\\Callu\\source\\repos\\lagginDragon\\Modules\\CrimeModule\\Types.cs",
               "RelativeDocumentMoniker": "Modules\\CrimeModule\\Types.cs",
@@ -86,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Models.cs",
               "DocumentMoniker": "C:\\Users\\Callu\\source\\repos\\lagginDragon\\Modules\\CrimeModule\\Models.cs",
               "RelativeDocumentMoniker": "Modules\\CrimeModule\\Models.cs",
@@ -99,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ModuleSystem.cs",
               "DocumentMoniker": "C:\\Users\\Callu\\source\\repos\\lagginDragon\\src\\ModuleSystem.cs",
               "RelativeDocumentMoniker": "src\\ModuleSystem.cs",
@@ -112,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Callu\\source\\repos\\lagginDragon\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -125,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "NoSQL.cs",
               "DocumentMoniker": "C:\\Users\\Callu\\source\\repos\\lagginDragon\\src\\NoSQL.cs",
               "RelativeDocumentMoniker": "src\\NoSQL.cs",
@@ -137,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "Implication.cs",
               "DocumentMoniker": "C:\\Users\\Callu\\source\\repos\\lagginDragon\\src\\Implication.cs",
               "RelativeDocumentMoniker": "src\\Implication.cs",
@@ -149,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Callu\\source\\repos\\lagginDragon\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
