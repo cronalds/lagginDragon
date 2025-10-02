@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CrimeModule
+namespace lagginDragon.Modules.CrimeModule
 {
     public class Models
     {
@@ -41,7 +41,7 @@ namespace CrimeModule
             public List<string>? aliases { get; set; }
             public string? DOB { get; set; }
             // i fucking hate this.
-            public Types.Types.Gender? gender { get; set; }
+            public Types.Gender? gender { get; set; }
             public string? CRN { get; set; }
             public List<Location>? knownToFrequent { get; set; }
             public List<Crime>? suspectedOf { get; set; }
@@ -52,10 +52,10 @@ namespace CrimeModule
         public class Evidence
         {
             public string? ID { get; set; } // Unique ID for referencing
-            public List<Types.Types.StatementEvidenceType>? Statement { get; set; }
-            public List<Types.Types.PhysicalEvidenceType>? Physical { get; set; }
-            public List<Types.Types.BiologicalEvidenceType>? Biological { get; set; }
-            public List<Types.Types.DigitalEvidenceType>? Digital { get; set; }
+            public List<Types.StatementEvidenceType>? Statement { get; set; }
+            public List<Types.PhysicalEvidenceType>? Physical { get; set; }
+            public List<Types.BiologicalEvidenceType>? Biological { get; set; }
+            public List<Types.DigitalEvidenceType>? Digital { get; set; }
             public List<Note>? notes { get; set; }
         }
 
@@ -64,7 +64,7 @@ namespace CrimeModule
             public string? ID { get; set; }
             public string? name { get; set; }
             public string? DOB { get; set; }
-            public Types.Types.Gender? gender { get; set; }
+            public Types.Gender? gender { get; set; }
             public List<Note>? notes { get; set; }
         }
 
@@ -100,7 +100,7 @@ namespace CrimeModule
         public class StatementEvidence
         {
             public string? ID { get; set; }
-            public Types.Types.StatementEvidenceType? Type { get; set; }
+            public Types.StatementEvidenceType? Type { get; set; }
             public string? Details { get; set; }
             public List<Note>? notes { get; set; }
         }
@@ -108,7 +108,7 @@ namespace CrimeModule
         public class PhysicalEvidence
         {
             public string? ID { get; set; }
-            public Types.Types.PhysicalEvidenceType? Type { get; set; }
+            public Types.PhysicalEvidenceType? Type { get; set; }
             public string? Description { get; set; }
             public List<Note>? notes { get; set; }
         }
@@ -116,7 +116,7 @@ namespace CrimeModule
         public class BiologicalEvidence
         {
             public string? ID { get; set; }
-            public Types.Types.BiologicalEvidenceType? Type { get; set; }
+            public Types.BiologicalEvidenceType? Type { get; set; }
             public string? Analysis { get; set; }
             public List<Note>? notes { get; set; }
         }
@@ -124,7 +124,7 @@ namespace CrimeModule
         public class DigitalEvidence
         {
             public string? ID { get; set; }
-            public Types.Types.DigitalEvidenceType? Type { get; set; }
+            public Types.DigitalEvidenceType? Type { get; set; }
             public string? FilePath { get; set; }
             public List<Note>? notes { get; set; }
         }

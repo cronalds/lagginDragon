@@ -5,8 +5,6 @@ VisualStudioVersion = 17.13.35806.99
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lagginDragon", "lagginDragon.csproj", "{613D2547-9B7C-40CE-BEF0-948A66D7CB81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrimeModule", "..\CrimeModule\CrimeModule.csproj", "{95CCF586-8B78-41B0-B118-E45DCB1E21EE}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{613D2547-9B7C-40CE-BEF0-948A66D7CB81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{613D2547-9B7C-40CE-BEF0-948A66D7CB81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{613D2547-9B7C-40CE-BEF0-948A66D7CB81}.Release|Any CPU.Build.0 = Release|Any CPU
-		{95CCF586-8B78-41B0-B118-E45DCB1E21EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{95CCF586-8B78-41B0-B118-E45DCB1E21EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{95CCF586-8B78-41B0-B118-E45DCB1E21EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{95CCF586-8B78-41B0-B118-E45DCB1E21EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
