@@ -37,8 +37,7 @@ namespace CrimeModule
             Location = 2,
             Event = 3,
             FingerPrint = 4,
-            FacialRecognition = 5,
-            Misc = 6
+            Misc = 5
         }
 
         public enum BiologicalEvidenceType
@@ -55,7 +54,8 @@ namespace CrimeModule
         {
             Video = 0,
             Audio = 1,
-            Image = 2
+            Image = 2,
+            FacialRecognition = 3
         }
 
         public enum Gender
