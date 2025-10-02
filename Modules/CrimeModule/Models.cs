@@ -4,11 +4,26 @@ using System.Dynamic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using lagginDragon;
 
-namespace lagginDragon.Modules.CrimeModule
+namespace CrimeModule
 {
-    public class Models
+    public class Models : IModule
     {
+        public string Name => "CrimeModule.Models";
+
+        // // // // // // // / // / / / //
+        public void Deregister(SimpleInjector.Container container)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Register(SimpleInjector.Container container)
+        {
+            throw new NotImplementedException();
+        }
+        // // // // // // // // // // // // / / /  / / / /
+
         public class Crime
         {
             public string? ID { get; set; }

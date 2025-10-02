@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lagginDragon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+daca4db4f88b549728e052b7b4d7c963a09f0cf5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20ee6d36cf0e254cfe6b517d7dfbafedaafcf259")]
 [assembly: System.Reflection.AssemblyProductAttribute("lagginDragon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lagginDragon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

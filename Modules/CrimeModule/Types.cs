@@ -3,11 +3,27 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using lagginDragon;
+using SimpleInjector;
 
-namespace lagginDragon.Modules.CrimeModule
+namespace CrimeModule
 {
-    public class Types
+    public class Types : IModule
     {
+        public string Name => "CrimeModule.Types";
+
+        // // // // // / / / / / / /
+        public void Deregister(Container container)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Register(Container container)
+        {
+            throw new NotImplementedException();
+        }
+        // // // / / // / / // / / // 
+
         public enum StatementEvidenceType
         {
             Witness = 0,

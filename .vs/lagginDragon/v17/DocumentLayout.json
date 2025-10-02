@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Callu\\source\\repos\\lagginDragon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{613D2547-9B7C-40CE-BEF0-948A66D7CB81}|lagginDragon.csproj|c:\\users\\callu\\source\\repos\\laggindragon\\modules\\crimemodule\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{613D2547-9B7C-40CE-BEF0-948A66D7CB81}|lagginDragon.csproj|solutionrelative:modules\\crimemodule\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF5E0EF6-213E-95E3-8D55-EBF151E1766F}|..\\CrimeModule\\CrimeModule.csproj|c:\\users\\callu\\source\\repos\\laggindragon\\modules\\crimemodule\\types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5E0EF6-213E-95E3-8D55-EBF151E1766F}|..\\CrimeModule\\CrimeModule.csproj|solutionrelative:modules\\crimemodule\\types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{613D2547-9B7C-40CE-BEF0-948A66D7CB81}|lagginDragon.csproj|c:\\users\\callu\\source\\repos\\laggindragon\\modules\\crimemodule\\types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{613D2547-9B7C-40CE-BEF0-948A66D7CB81}|lagginDragon.csproj|solutionrelative:modules\\crimemodule\\types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{613D2547-9B7C-40CE-BEF0-948A66D7CB81}|lagginDragon.csproj|c:\\users\\callu\\source\\repos\\laggindragon\\modules\\crimemodule\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{613D2547-9B7C-40CE-BEF0-948A66D7CB81}|lagginDragon.csproj|solutionrelative:modules\\crimemodule\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{613D2547-9B7C-40CE-BEF0-948A66D7CB81}|lagginDragon.csproj|c:\\users\\callu\\source\\repos\\laggindragon\\src\\modulesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,30 +38,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Types.cs",
               "DocumentMoniker": "C:\\Users\\Callu\\source\\repos\\lagginDragon\\Modules\\CrimeModule\\Types.cs",
               "RelativeDocumentMoniker": "Modules\\CrimeModule\\Types.cs",
               "ToolTip": "C:\\Users\\Callu\\source\\repos\\lagginDragon\\Modules\\CrimeModule\\Types.cs",
               "RelativeToolTip": "Modules\\CrimeModule\\Types.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-02T18:36:02.933Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Models.cs",
               "DocumentMoniker": "C:\\Users\\Callu\\source\\repos\\lagginDragon\\Modules\\CrimeModule\\Models.cs",
               "RelativeDocumentMoniker": "Modules\\CrimeModule\\Models.cs",
               "ToolTip": "C:\\Users\\Callu\\source\\repos\\lagginDragon\\Modules\\CrimeModule\\Models.cs",
               "RelativeToolTip": "Modules\\CrimeModule\\Models.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-02T18:36:04.116Z",
               "EditorCaption": ""
@@ -74,7 +74,7 @@
               "RelativeDocumentMoniker": "src\\ModuleSystem.cs",
               "ToolTip": "C:\\Users\\Callu\\source\\repos\\lagginDragon\\src\\ModuleSystem.cs",
               "RelativeToolTip": "src\\ModuleSystem.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAkwCYAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-01T21:52:12.482Z",
               "EditorCaption": ""
@@ -125,7 +125,8 @@
               "ToolTip": "C:\\Users\\Callu\\source\\repos\\lagginDragon\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T21:17:44.594Z"
+              "WhenOpened": "2025-09-30T21:17:44.594Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

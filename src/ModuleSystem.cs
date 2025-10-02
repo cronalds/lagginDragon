@@ -7,7 +7,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Scrutor;
 using SimpleInjector;
 
-namespace lagginDragon.src
+namespace lagginDragon
 {
     public interface IModule
     {
