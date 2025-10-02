@@ -1,0 +1,162 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "lagginDragon/1.0.0": {
+        "dependencies": {
+          "LiteDB": "5.0.21",
+          "Scrutor": "6.1.0",
+          "SimpleInjector": "5.5.0"
+        },
+        "runtime": {
+          "lagginDragon.dll": {}
+        }
+      },
+      "LiteDB/5.0.21": {
+        "dependencies": {
+          "System.Buffers": "4.5.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "assemblyVersion": "5.0.21.0",
+            "fileVersion": "5.0.21.0"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.1": {
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.324.11423"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyModel/8.0.2": {
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.DependencyModel.dll": {
+            "assemblyVersion": "8.0.0.2",
+            "fileVersion": "8.0.1024.46610"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.0.1": {},
+      "Microsoft.NETCore.Targets/1.0.1": {},
+      "Scrutor/6.1.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.1",
+          "Microsoft.Extensions.DependencyModel": "8.0.2"
+        },
+        "runtime": {
+          "lib/net8.0/Scrutor.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.0.0"
+          }
+        }
+      },
+      "SimpleInjector/5.5.0": {
+        "dependencies": {
+          "System.ComponentModel": "4.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.1/SimpleInjector.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        }
+      },
+      "System.Buffers/4.5.1": {},
+      "System.ComponentModel/4.0.1": {
+        "dependencies": {
+          "System.Runtime": "4.1.0"
+        }
+      },
+      "System.Runtime/4.1.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.0.1",
+          "Microsoft.NETCore.Targets": "1.0.1"
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lagginDragon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LiteDB/5.0.21": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ykJ7ffFl7P9YQKR/PLci6zupiLrsSCNkOTiw6OtzntH7d2kCYp5L1+3a/pksKgTEHcJBoPXFtg7VZSGVBseN9w==",
+      "path": "litedb/5.0.21",
+      "hashPath": "litedb.5.0.21.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fGLiCRLMYd00JYpClraLjJTNKLmMJPnqxMaiRzEBIIvevlzxz33mXy39Lkd48hu1G+N21S7QpaO5ZzKsI6FRuA==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/8.0.1",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyModel/8.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mUBDZZRgZrSyFOsJ2qJJ9fXfqd/kXJwf3AiDoqLD9m6TjY5OO/vLNOb9fb4juC0487eq4hcGN/M2Rh/CKS7QYw==",
+      "path": "microsoft.extensions.dependencymodel/8.0.2",
+      "hashPath": "microsoft.extensions.dependencymodel.8.0.2.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2G6OjjJzwBfNOO8myRV/nFrbTw5iA+DEm0N+qUqhrOmaVtn4pC77h38I1jsXGw5VH55+dPfQsqHD0We9sCl9FQ==",
+      "path": "microsoft.netcore.platforms/1.0.1",
+      "hashPath": "microsoft.netcore.platforms.1.0.1.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Targets/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rkn+fKobF/cbWfnnfBOQHKVKIOpxMZBvlSHkqDWgBpwGDcLRduvs3D9OLGeV6GWGvVwNlVi2CBbTjuPmtHvyNw==",
+      "path": "microsoft.netcore.targets/1.0.1",
+      "hashPath": "microsoft.netcore.targets.1.0.1.nupkg.sha512"
+    },
+    "Scrutor/6.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-m4+0RdgnX+jeiaqteq9x5SwEtuCjWG0KTw1jBjCzn7V8mCanXKoeF8+59E0fcoRbAjdEq6YqHFCmxZ49Kvqp3g==",
+      "path": "scrutor/6.1.0",
+      "hashPath": "scrutor.6.1.0.nupkg.sha512"
+    },
+    "SimpleInjector/5.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ybPs0RE2x3mmBdXD/ZsPUwKGNSa8bZnI2HWeO2irwVHvzBkvYb+KQRaK2dIcKIWPD8cBgxekZdIi3YhRLfq8Xw==",
+      "path": "simpleinjector/5.5.0",
+      "hashPath": "simpleinjector.5.5.0.nupkg.sha512"
+    },
+    "System.Buffers/4.5.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Rw7ijyl1qqRS0YQD/WycNst8hUUMgrMH4FCn1nNm27M4VxchZ1js3fVjQaANHO5f3sN4isvP4a+Met9Y4YomAg==",
+      "path": "system.buffers/4.5.1",
+      "hashPath": "system.buffers.4.5.1.nupkg.sha512"
+    },
+    "System.ComponentModel/4.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oBZFnm7seFiVfugsIyOvQCWobNZs7FzqDV/B7tx20Ep/l3UUFCPDkdTnCNaJZTU27zjeODmy2C/cP60u3D4c9w==",
+      "path": "system.componentmodel/4.0.1",
+      "hashPath": "system.componentmodel.4.0.1.nupkg.sha512"
+    },
+    "System.Runtime/4.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-v6c/4Yaa9uWsq+JMhnOFewrYkgdNHNG2eMKuNqRn8P733rNXeRCGvV5FkkjBXn2dbVkPXOsO0xjsEeM1q2zC0g==",
+      "path": "system.runtime/4.1.0",
+      "hashPath": "system.runtime.4.1.0.nupkg.sha512"
+    }
+  }
+}

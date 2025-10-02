@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "l8kmsVojejc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Callu\\source\\repos\\lagginDragon\\lagginDragon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Callu\\.nuget\\packages\\litedb\\5.0.21\\litedb.5.0.21.nupkg.sha512",
+    "C:\\Users\\Callu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\Callu\\.nuget\\packages\\microsoft.extensions.dependencymodel\\8.0.2\\microsoft.extensions.dependencymodel.8.0.2.nupkg.sha512",
+    "C:\\Users\\Callu\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",
+    "C:\\Users\\Callu\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
+    "C:\\Users\\Callu\\.nuget\\packages\\scrutor\\6.1.0\\scrutor.6.1.0.nupkg.sha512",
+    "C:\\Users\\Callu\\.nuget\\packages\\simpleinjector\\5.5.0\\simpleinjector.5.5.0.nupkg.sha512",
+    "C:\\Users\\Callu\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Callu\\.nuget\\packages\\system.componentmodel\\4.0.1\\system.componentmodel.4.0.1.nupkg.sha512",
+    "C:\\Users\\Callu\\.nuget\\packages\\system.runtime\\4.1.0\\system.runtime.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
