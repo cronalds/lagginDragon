@@ -27,7 +27,8 @@ namespace CrimeModule
         public enum StatementEvidenceType
         {
             Witness = 0,
-            CharacterReference = 1
+            CharacterReference = 1,
+            CriminalStatement = 2
         }
         public enum PhysicalEvidenceType
         {
