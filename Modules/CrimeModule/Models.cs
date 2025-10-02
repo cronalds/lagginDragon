@@ -4,12 +4,10 @@ using System.Dynamic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using lagginDragon.Modules.CrimeModule;
-using lagginDragon.Modules.CrimeModule.Types;
 
 namespace lagginDragon.Modules.CrimeModule
 {
-    internal class Models
+    public class Models
     {
         public class Crime
         {

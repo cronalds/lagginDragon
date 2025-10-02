@@ -21,3 +21,4 @@ C:\Users\Callu\source\repos\lagginDragon\bin\Debug\net8.0-windows\Microsoft.Exte
 C:\Users\Callu\source\repos\lagginDragon\bin\Debug\net8.0-windows\Scrutor.dll
 C:\Users\Callu\source\repos\lagginDragon\bin\Debug\net8.0-windows\SimpleInjector.dll
 C:\Users\Callu\source\repos\lagginDragon\obj\Debug\net8.0-windows\lagginDr.260C5338.Up2Date
+C:\Users\Callu\source\repos\lagginDragon\obj\Debug\net8.0-windows\lagginDragon.sourcelink.json

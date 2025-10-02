@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace lagginDragon.Modules.CrimeModule.Types
 {
-    internal class Types
+    public class Types
     {
         public enum StatementEvidenceType
         {

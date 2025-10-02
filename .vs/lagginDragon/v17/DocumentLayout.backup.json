@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "src\\ModuleSystem.cs",
               "ToolTip": "C:\\Users\\Callu\\source\\repos\\lagginDragon\\src\\ModuleSystem.cs",
               "RelativeToolTip": "src\\ModuleSystem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwCYAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-01T21:52:12.482Z",
               "EditorCaption": ""
@@ -76,8 +76,7 @@
               "RelativeToolTip": "Modules\\CrimeModule\\Types.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T21:00:44.711Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-01T21:00:44.711Z"
             },
             {
               "$type": "Document",
@@ -89,8 +88,7 @@
               "RelativeToolTip": "Modules\\CrimeModule\\Models.cs",
               "ViewState": "AgIAADoAAAAAAAAAAAA1wGMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T20:58:03.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-01T20:58:03.586Z"
             },
             {
               "$type": "Document",
@@ -102,8 +100,7 @@
               "RelativeToolTip": "src\\NoSQL.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T22:09:45.599Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T22:09:45.599Z"
             },
             {
               "$type": "Document",
@@ -115,8 +112,7 @@
               "RelativeToolTip": "src\\Implication.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T22:05:11.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T22:05:11.492Z"
             },
             {
               "$type": "Document",
@@ -127,8 +123,7 @@
               "ToolTip": "C:\\Users\\Callu\\source\\repos\\lagginDragon\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T21:17:44.594Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-09-30T21:17:44.594Z"
             }
           ]
         }
