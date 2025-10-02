@@ -35,20 +35,13 @@ namespace lagginDragon.src
 
             var assembly = Assembly.LoadFrom(dllPath);
 
-            // Use Scrutor + ServiceCollection to discover IModule implementations
-            var tempServices = new ServiceCollection();
-            tempServices.Scan(scan => scan
-                .FromAssemblies(assembly)
-                .AddClasses(c => c.AssignableTo<IModule>())
-                .AsSelf()
-                .WithTransientLifetime());
+            // Use reflection to discover and instantiate IModule implementations
+            var moduleTypes = assembly.GetTypes()
+                .Where(t => typeof(IModule).IsAssignableFrom(t) && !t.IsAbstract && !t.IsInterface);
 
-            // Build provider just for discovery
-            using var provider = tempServices.BuildServiceProvider();
-            var discoveredModules = provider.GetServices<IModule>();
-
-            foreach (var module in discoveredModules)
+            foreach (var type in moduleTypes)
             {
+                var module = (IModule)Activator.CreateInstance(type)!;
                 if (_loadedModules.ContainsKey(module.Name))
                 {
                     Console.WriteLine($"Module {module.Name} already loaded.");

@@ -1,4 +1,7 @@
 using System.IO;
+using lagginDragon.src;
+using Microsoft.VisualBasic;
+using SimpleInjector;
 
 namespace lagginDragon
 {
@@ -6,6 +9,9 @@ namespace lagginDragon
     {
         string dataPath = Environment.CurrentDirectory + @"/Data";
         string modulesPath = Environment.CurrentDirectory + @"/Modules";
+
+        static Container modulesContainer = new Container();
+        ModuleRegistry moduleRegistry = new ModuleRegistry(modulesContainer);
 
         public Form1()
         {
