@@ -8,11 +8,11 @@ Deriving unknown facts for outcomes from a knowledge base of known facts using p
 
 Peter Gerard Scully hung an 18 month old girl from the ceiling with a piece of rope around her ankle and raped her with a dildo until she was disabled and almost dead, and then sold copies of the video for $10k each, and somehow, he was STILL a better person than any of you, he had more morals as well as more value, both in dollars and virtue, and he harmed less children in a less vehement manner than any of you; make your mother proud and overdose on fentanyl you dirty rat cunts, that's the only value any person could derive from you.
 
-Why does the legal system exist? Because of people like you.
-Why do the police exist? Because of people like you.
-Why does money exist? Because of people like you.
-Why are drugs either illegal or difficult to obtain? Because of people like you.
-Why did society start building prisons? Because of people like you.
+- Why does the legal system exist? Because of people like you.
+- Why do the police exist? Because of people like you.
+- Why does money exist? Because of people like you.
+- Why are drugs either illegal or difficult to obtain? Because of people like you.
+- Why did society start building prisons? Because of people like you.
 
 Kind of sounds as though all of you are the only reasons any of you filth have any fucking problems, huh?
 
