@@ -73,6 +73,7 @@
             moduleManagerToolStripMenuItem.Name = "moduleManagerToolStripMenuItem";
             moduleManagerToolStripMenuItem.Size = new Size(110, 20);
             moduleManagerToolStripMenuItem.Text = "Module Manager";
+            moduleManagerToolStripMenuItem.Click += moduleManagerToolStripMenuItem_Click;
             // 
             // treeView1
             // 

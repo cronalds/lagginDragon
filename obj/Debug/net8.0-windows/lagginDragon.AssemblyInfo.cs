@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lagginDragon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58408444dddf357cc2a4b3b8ac9bb5167b1c9d2e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89326e6153146de7461dc984b0108ca7fdafd736")]
 [assembly: System.Reflection.AssemblyProductAttribute("lagginDragon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lagginDragon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

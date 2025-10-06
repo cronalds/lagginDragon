@@ -4,7 +4,6 @@ using System.IO;
 using System.Linq;
 using System.Reflection;
 using Microsoft.Extensions.DependencyInjection;
-using Scrutor;
 using SimpleInjector;
 
 namespace lagginDragon
@@ -31,7 +30,9 @@ namespace lagginDragon
         public void LoadModuleFromFile(string dllPath)
         {
             if (!File.Exists(dllPath))
+            {
                 throw new FileNotFoundException("Module DLL not found", dllPath);
+            }
 
             var assembly = Assembly.LoadFrom(dllPath);
 

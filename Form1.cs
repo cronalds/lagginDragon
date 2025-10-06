@@ -23,5 +23,11 @@ namespace lagginDragon
             Directory.CreateDirectory(Path.GetFullPath(dataPath));
             Directory.CreateDirectory(Path.GetFullPath(modulesPath));
         }
+
+        private void moduleManagerToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form mm = new src.forms.ModuleManager();
+            mm.Show();
+        }
     }
 }
