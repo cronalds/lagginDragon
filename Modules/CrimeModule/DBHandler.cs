@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace lagginDragon.Modules.CrimeModule
 {
-    internal class DBHandler
+    public class DBHandler
     {
 
     }
