@@ -22,6 +22,10 @@ I have been shot at on more than one occasion, I have been poisoned with fentany
 
 Just remember, this could have gone VERY fucking different, I would have upheld the law of silence if any of you did. Call me a dog and I'll fucking bark and bite like one, call me a rat and I'll scamper into your drainpipe and bite through your fucking wires. I've never committed a murder, but I am the reason some of you have been murdered, not by commission, but by a refusal of my omission, and your own stupidity, and neglect. They deserved their deaths, and I have no fucking regrets, my hands are clean simply because it wasn't my fucking negligence nor was I directly responsible or implicated in any way. And now, I'm attacking you with something you'll never understand, basic fucking mathematics.
 
+## A message to my family and the people they all hired:
+
+https://drive.google.com/drive/folders/1N2YDJ6CjkmDs6O-KoxsZRSoFXt8W9oBF?usp=drive_link
+
 ## A message to criminals who aren't part of the filthy 75%:
 
 I understand, the world is harsh, cruel, and neglectful for the most part, and sometimes doing the wrong things for either the right reasons, or out of blatant necessity can't be helped. Just continue to allow yourself to look for better options than the bad hand that you've been dealt, and remember that you deserve better, and you are also capable of it.
