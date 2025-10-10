@@ -50,21 +50,13 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "dependencies": {
-            "Microsoft.Data.Sqlite.Core": {
+            "LiteDB": {
               "target": "Package",
-              "version": "[9.0.9, )"
-            },
-            "SQLite": {
-              "target": "Package",
-              "version": "[3.13.0, )"
+              "version": "[5.0.21, )"
             },
             "SimpleInjector": {
               "target": "Package",
               "version": "[5.5.0, )"
-            },
-            "SoloDB": {
-              "target": "Package",
-              "version": "[0.5.0, )"
             }
           },
           "imports": [
