@@ -6,6 +6,8 @@ Deriving unknown facts for outcomes from a knowledge base of known facts using p
 
 ## I DO NOT HAVE ANY DATING PROFILES OR SOCIAL MEDIA PROFILES, ALL CONTACT INFO IS ON MY GITHUB BIO
 
+## PEOPLE ARE MAKING DEEPFAKE PICTURES/VIDEOS/ETC SO DO DUE DILLIGENCE; THE AGE OF AI ISN'T ALL GOOD
+
 ## A message for the criminals that bark at me, call me a dog and a rat, and are spreading the video of my having been drugged and raped, as well as beaten and tortured:
 
 Peter Gerard Scully hung an 18 month old girl from the ceiling with a piece of rope around her ankle and raped her with a dildo until she was disabled and almost dead, and then sold copies of the video for $10k each, and somehow, he was STILL a better person than any of you, he had more morals as well as more value, both in dollars and virtue, and he harmed less children in a less vehement manner than any of you; make your mother proud and overdose on fentanyl you dirty rat cunts, that's the only value any person could derive from you.
