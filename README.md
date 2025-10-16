@@ -6,7 +6,7 @@ Deriving unknown facts for outcomes from a knowledge base of known facts using p
 
 ## I DO NOT HAVE ANY DATING PROFILES OR SOCIAL MEDIA PROFILES, ALL CONTACT INFO IS ON MY GITHUB BIO
 
-## PEOPLE ARE MAKING DEEPFAKE PICTURES/VIDEOS/ETC SO DO DUE DILLIGENCE; THE AGE OF AI ISN'T ALL GOOD
+## PEOPLE ARE MAKING DEEPFAKE PICTURES/VIDEOS/ETC SO DO DUE DILIGENCE; THE AGE OF AI ISN'T ALL GOOD
 
 ## A message for the criminals that bark at me, call me a dog and a rat, and are spreading the video of my having been drugged and raped, as well as beaten and tortured:
 
