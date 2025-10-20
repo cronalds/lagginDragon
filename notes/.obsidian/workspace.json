@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "1a7237c6cd82a042",
+    "type": "split",
+    "children": [
+      {
+        "id": "51af60fd866f3350",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "315cccacae4f132c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0. index"
+            }
+          },
+          {
+            "id": "0132deedac7a55fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Logical Evaluation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Logical Evaluation"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2561fb273efa0a33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02c5a9940bcfbd09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Set theory logic design.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Set theory logic design"
+            }
+          },
+          {
+            "id": "f6089053668c4ea7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "76d7649900deadb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "719b7f520bc14810",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "929a56799bff73ed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8b9959431b7cdc72",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "776602459c698b98",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "689fc1e75603d3d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2d5fea234c54ae4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a06212023fba46e9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Clippings/Relating evidence with relationships.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Relating evidence with relationships"
+            }
+          },
+          {
+            "id": "8f5c3ffce53e9a7c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Clippings/Relating evidence with relationships.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Relating evidence with relationships"
+            }
+          },
+          {
+            "id": "fce99b9f432bccf0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "eccfb5504ea8272f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Clippings/Relating evidence with relationships.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Relating evidence with relationships"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f6089053668c4ea7",
+  "lastOpenFiles": [
+    "0. index.md",
+    "3.2 Parallel Worlds and Branching on Unknowns.md",
+    "3.2 Parallel Worlds and Branching on Unlnowns.md",
+    "00.. Implementation Path.md",
+    "Clippings/Set theory logic design.md",
+    "Figure Out Properly Later.md",
+    "7.1 Traceability and Replay Guarantees.md",
+    "7.2 Testing and Validation Plan.md",
+    "Traceability and Replay Guarantees.md",
+    "6.1 Conflict and Prioritization (Practical Rules).md",
+    "7. Tracing, Logging, and Kanban Templating.md",
+    "2.5 Rule Builder.md",
+    "2.4 Short-Circuiting Rules.md",
+    "2.3 Command Pattern.md",
+    "5.1 Data Model Sketches.md",
+    "0. Core Concepts.md",
+    "8.  Testing, Validation, and Safety.md",
+    "1.1 Provenance and Explainability.md",
+    "2.2 Prioritization and Defeasible Reasoning.md",
+    "6. Conflict Handling Strategies.md",
+    "3.1 Inference Loop (High Level Pipeline).md",
+    "3.1 (Inference Loop High Level Pipeline).md",
+    "2.1 Evaluation and Short-Circuiting Facade.md",
+    "5. Core Data Model Concepts.md",
+    "1. Knowledge Representation.md",
+    "2. Logical Evaluation.md",
+    "Clippings"
+  ]
+}
