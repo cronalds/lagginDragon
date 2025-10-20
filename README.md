@@ -31,15 +31,3 @@ Just remember, this could have gone VERY fucking different, I would have upheld 
 ## A message to my family and the people they all hired:
 
 https://drive.google.com/drive/folders/1N2YDJ6CjkmDs6O-KoxsZRSoFXt8W9oBF?usp=drive_link
-
-## A message to criminals who aren't part of the filthy 75%:
-
-I understand, the world is harsh, cruel, and neglectful for the most part, and sometimes doing the wrong things for either the right reasons, or out of blatant necessity can't be helped. Just continue to allow yourself to look for better options than the bad hand that you've been dealt, and remember that you deserve better, and you are also capable of it.
-
-Listen to or read Desiderata, they are words we can all use, and they are words we all need.
-
-## A message for my daughter:
-
-I love you, I'm sorry I was never there, but it was more of a blessing for you than a curse, when you were born I was not a man worthy of fatherhood, and I clearly have issues now even though I'm trying to change for the better. I just hope that this makes a safer and better world for you and your future family.
-
-One day I hope to meet you and get to know you, I would like to cook you a meal and hear your voice, amongst many other things.
