@@ -2,13 +2,21 @@
 
 ## What is this software for?
 
-Deriving unknown facts for outcomes from a knowledge base of known facts using propositional logic and forward chaining to look at all likely possible worlds; that's the general basic gist. This can and will be applied to more than crime, but I'm starting with the crime module because of personal circumstances, and I'm also fucking sick of at least 75% of criminals; ya fuckin' filth(although I must state that I'm not exempt, I'm still in my rehabilitation period so I myself am still currently a criminal, but not filthy like the 75%).
+Deriving unknown facts for outcomes from a knowledge base of known facts using propositional logic and forward chaining to look at all likely possible worlds; that's the general basic gist. This can and will be applied to more than crime, but I'm starting with the crime module because of personal circumstances, and I'm also fucking sick of criminals; ya fuckin' filth(although I must state that I'm not exempt, I'm still in my rehabilitation period so I myself am still currently a criminal).
+
+---
 
 ## I DO NOT HAVE ANY DATING PROFILES OR SOCIAL MEDIA PROFILES, ALL CONTACT INFO IS ON MY GITHUB BIO
 
+---
+
 ## PEOPLE ARE MAKING DEEPFAKE PICTURES/VIDEOS/ETC TO DEFAME/SHAME/INTIMIDATE/INCRIMINATE SO DO DUE DILIGENCE; THE AGE OF AI ISN'T ALL GOOD
 
+---
+
 ## DONT BOTHER CONTACTING ME, THEY HAVE EITHER HIRED A CORRUPT POLICE OFFICER TO INTERCEPT CALLS AND TEXTS OR A HACKER TO USE SS7 ATTACKS; INTERCEPTING MAIL ALSO
+
+---
 
 ## A message for the criminals that bark at me, call me a dog and a rat, and are spreading the video of my having been drugged and raped, as well as beaten and tortured:
 
@@ -27,6 +35,8 @@ Allow me to reiterate, fucking overdose you filthy rat cunts, you aren't even wo
 I have been shot at on more than one occasion, I have been poisoned with fentanyl and fuck knows what else, I have been drugged, raped and tortured, and I have been gangstalked alongside a vicious smear campaign where I've been called a schizophrenic pedophile for at least 10 years now, and i have proven myself to be too expensive of an issue for any of you spineless filth to deal with; I got sick of your shit a long time ago, and you have no fucking right to be upset that I'm fighting back now. Seeing as all of you want to play games with me and my life, I've decided to play a game of my own, it's called "kenneling the fucking dogs and laughing at the barks." And seeing as all of you want to leave a lasting impact on my life, I've decided to do the same for yours.
 
 Just remember, this could have gone VERY fucking different, I would have upheld the law of silence if any of you did. Call me a dog and I'll fucking bark and bite like one, call me a rat and I'll scamper into your drainpipe and bite through your fucking wires. I've never committed a murder, but I am the reason some of you have been murdered, not by commission, but by a refusal of my omission, and your own stupidity, and neglect. They deserved their deaths, and I have no fucking regrets, my hands are clean simply because it wasn't my fucking negligence nor was I directly responsible or implicated in any way. And now, I'm attacking you with something you'll never understand, basic fucking mathematics.
+
+---
 
 ## A message to my family and the people they all hired:
 
