@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Set theory logic design 2.md",
+                "file": "Clippings/Set theory logic design 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Set theory logic design 2"
+              "title": "Set theory logic design 3"
             }
           }
         ]
@@ -171,8 +171,9 @@
   },
   "active": "f6089053668c4ea7",
   "lastOpenFiles": [
-    "Clippings/Set theory logic design 1.md",
     "Clippings/Set theory logic design 2.md",
+    "Clippings/Set theory logic design 3.md",
+    "Clippings/Set theory logic design 1.md",
     "0. index.md",
     "3.2 Parallel Worlds and Branching on Unknowns.md",
     "3.2 Parallel Worlds and Branching on Unlnowns.md",
@@ -196,7 +197,6 @@
     "3.1 Inference Loop (High Level Pipeline).md",
     "3.1 (Inference Loop High Level Pipeline).md",
     "2.1 Evaluation and Short-Circuiting Facade.md",
-    "5. Core Data Model Concepts.md",
     "Clippings"
   ]
 }
