@@ -4,71 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "51af60fd866f3350",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "315cccacae4f132c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0. index"
-            }
-          },
-          {
-            "id": "0132deedac7a55fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Logical Evaluation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. Logical Evaluation"
-            }
-          }
-        ]
-      },
-      {
         "id": "2561fb273efa0a33",
         "type": "tabs",
         "children": [
           {
-            "id": "02c5a9940bcfbd09",
+            "id": "f6089053668c4ea7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Set theory logic design.md",
+                "file": "Clippings/Set theory logic design 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Set theory logic design"
-            }
-          },
-          {
-            "id": "f6089053668c4ea7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "title": "Set theory logic design 2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,6 +171,8 @@
   },
   "active": "f6089053668c4ea7",
   "lastOpenFiles": [
+    "Clippings/Set theory logic design 1.md",
+    "Clippings/Set theory logic design 2.md",
     "0. index.md",
     "3.2 Parallel Worlds and Branching on Unknowns.md",
     "3.2 Parallel Worlds and Branching on Unlnowns.md",
@@ -242,8 +197,6 @@
     "3.1 (Inference Loop High Level Pipeline).md",
     "2.1 Evaluation and Short-Circuiting Facade.md",
     "5. Core Data Model Concepts.md",
-    "1. Knowledge Representation.md",
-    "2. Logical Evaluation.md",
     "Clippings"
   ]
 }
